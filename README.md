@@ -47,7 +47,3 @@ the following parameters:
 | `source`           | no       | string | Identifier for the requesting agent or process                       |
 
 The tool returns the written file path and the generated entry id on success.
-
-## License
-
-Released under the MIT License. See [LICENSE](LICENSE) for the full text.
