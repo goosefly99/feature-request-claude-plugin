@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build / cache artifacts
+coverage/
+.nyc_output/
+*.tsbuildinfo
+.cache/
+
+# Feature request runtime store
+feature_requests.toml
