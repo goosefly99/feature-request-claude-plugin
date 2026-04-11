@@ -1,7 +1,7 @@
 {
   "name": "feature-request",
-  "version": "0.1.0",
-  "description": "MCP tool for agents to record feature suggestions into feature_requests.toml files",
+  "version": "0.2.0",
+  "description": "MCP tool for agents reviewing or testing an existing codebase to record strictly-scoped feature suggestions (new components or substantial new-functionality updates only) into feature_requests.toml files",
   "type": "module",
   "bin": "./server.ts",
   "scripts": {

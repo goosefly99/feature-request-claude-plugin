@@ -1,7 +1,7 @@
 {
   "name": "feature-request",
-  "description": "MCP tool for agents to record feature suggestions into feature_requests.toml files",
-  "version": "0.1.0",
+  "description": "MCP tool for agents reviewing or testing an existing codebase to record strictly-scoped feature suggestions (new components or substantial new-functionality updates only) into feature_requests.toml files",
+  "version": "0.2.0",
   "author": { "name": "olive" },
   "repository": "https://github.com/goosefly99/feature-request-claude-plugin.git"
 }
